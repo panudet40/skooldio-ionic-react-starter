@@ -35,4 +35,6 @@ $RECYCLE.BIN/
 Thumbs.db
 UserInterfaceState.xcuserstate
 
+build/
+
 # End of https://www.toptal.com/developers/gitignore/api/ionic3
